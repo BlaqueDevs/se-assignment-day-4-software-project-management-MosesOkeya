@@ -12,6 +12,8 @@ It’s all about making sure the project goes smoothly from start to finish
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
+Effective cost control is crucial for software project success as it ensures projects stay within budget, optimizes resource allocation, and helps identify and address potential cost overruns, ultimately leading to better profitability and project outcomes. 
+
 
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
@@ -57,34 +59,53 @@ Agile methodology is beneficial where:
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
+Defining the project scope is crucial for successful project planning because it establishes clear boundaries, objectives, deliverables, and expectations, which helps in aligning team efforts, managing resources, and preventing scope creep, ultimately leading to a smoother and more efficient project execution. 
+
+A Work Breakdown Structure (WBS) is a hierarchical decomposition of a project's work scope into smaller, more manageable tasks, crucial for project planning, execution, and control. It's useful for defining project scope, allocating resources, and improving communication and collaboration. 
 
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
+Developing a detailed project schedule offers numerous benefits, including improved planning, better resource allocation, enhanced communication, and reduced risks, ultimately leading to more efficient and successful project outcomes. 
 
+Gantt charts help in project planning by providing a visual timeline to track tasks, milestones, dependencies, and deadlines, allowing for better organization, resource allocation, and progress monitoring. 
 
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
+Heterogeneity.
+Business and social change.
+Security and trust.
+Scales.
 
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
-
+You can use various techniques to understand the problem, such as asking questions, brainstorming, interviewing, researching, modeling, and prototyping. Understanding the problem will help you avoid wasting time and resources on irrelevant or incorrect solutions
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 
-
+Software solutions consist of integrated sets of software applications, tools, and services that are developed to meet the requirements of various industries, functions, and processes within an organization.
 
 
 ## 11. What are the main features or functionalities that make your software stand out?
 
 
-
+Good software quality attributes
+Usability.
+Functionality.
+Correctness.
+Maintainability.
+Reliability.
+Flexibility.
+Scalability.
+Testability.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
 
-
+The global software market size was valued at USD 583.47 billion in 2022 and is expected to grow at a compound annual growth rate (CAGR) of 11.5% from 2023 to 2030. A surge in the volume of enterprise data, rising automation of business processes, and growing digitization are the major drivers of the market.
 
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+
+Understanding market trends is crucial for informing your software's positioning and development, allowing you to anticipate customer needs, identify opportunities, and stay ahead of the competition. By analyzing trends, you can tailor your software's features, target audience, and marketing strategies to meet evolving market demands. 
